@@ -17,8 +17,15 @@ To create and switch to new branch
 To switch to new branch 
 ``` git checkout <branch-name>```
 
+Create virtual environment:
+```python3 -m venv venv-demo```
+
+Activate venv:
+```source venv-demo/bin/activate```
+
 To install requirements:
 ```pip install -r requirements.txt ```
+
 
 ## Other useful commands:
 
