@@ -1,3 +1,3 @@
 ## Clone Repository
 
-```https://github.com/ShipraaMathur/github-demo.git```
+```git clone https://github.com/ShipraaMathur/github-demo.git```
