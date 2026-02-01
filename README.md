@@ -17,7 +17,10 @@ To create and switch to new branch
 To switch to new branch 
 ``` git checkout <branch-name>```
 
-Other useful commands:
+To install requirements:
+```pip install -r requirements.txt ```
+
+## Other useful commands:
 
 1. To check which files are staged for commit/push: `git status`
 
